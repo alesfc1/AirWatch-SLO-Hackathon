@@ -105,7 +105,7 @@ Ključna performančna odločitev: trend grafi so kešani po (`event`, `pollutan
 
 ```bash
 # 1. Kloniraj repozitorij
-git clone https://github.com/alesfc1/AirWatch-SLO
+git clone https://github.com/alesfc1/AirWatch-SLO-Hackathon
 cd airwatch-geoslovenija
 
 # 2. Virtualno okolje (Python 3.12)
